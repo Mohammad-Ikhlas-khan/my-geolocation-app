@@ -46,7 +46,12 @@ You can deploy the static files to any of the following:
 
 Each service has its own documentation for deploying static files.
 
+## 🙌 Credits
 
+- 🙌 Built with [React.js](https://reactjs.org/)
+- 🎨 Styled using [Tailwind CSS](https://tailwindcss.com/)
+- 🌐 Powered by the [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
 
+---
 
-
+© 2025 Geolocation React Application — All rights reserved.
