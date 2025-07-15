@@ -23,4 +23,5 @@ npm run dev
 ```
 Open your Browser and navigate to:
 
-Vite:```bash http://localhost:5173
+Vite:bash 
+http://localhost:5173
