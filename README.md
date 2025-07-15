@@ -23,5 +23,29 @@ npm run dev
 ```
 Open your Browser and navigate to:
 
-Vite:bash 
+-**Vite** : 
 http://localhost:5173
+
+## 🚀 Deployment
+
+### 1.Build the Application
+```bash
+npm run build
+```
+This creates a production-ready folder:
+
+**Vite** → dist/
+
+### 2.Choose a Hosting Service
+
+You can deploy the static files to any of the following:
+
+-[Netlify](https://www.netlify.com/)
+-[vercel](https://vercel.com/)
+
+Each service has its own documentation for deploying static files.
+
+
+
+
+
