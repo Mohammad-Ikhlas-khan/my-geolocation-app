@@ -10,5 +10,17 @@ A simple, modern, and responsive web application built with **React** that lever
 ### 1. Clone the Repository (or create a new project)
 
 ```bash
-git clone <your-repository-url>
-cd <your-project-folder>
+git clone https://github.com/Mohammad-Ikhlas-khan/my-geolocation-app
+cd my-geolocation-app
+```
+### 2.Install Dependencies
+```bash
+npm install
+```
+### 3.Run the Development Server
+```bash
+npm run dev
+```
+Open your Browser and navigate to:
+
+Vite:```bash http://localhost:5173
