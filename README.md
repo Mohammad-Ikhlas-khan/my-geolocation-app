@@ -41,6 +41,7 @@ This creates a production-ready folder:
 You can deploy the static files to any of the following:
 
 -[Netlify](https://www.netlify.com/)
+
 -[vercel](https://vercel.com/)
 
 Each service has its own documentation for deploying static files.
